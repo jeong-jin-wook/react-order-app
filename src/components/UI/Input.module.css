@@ -1,0 +1,19 @@
+.input {
+  display: flex;
+  align-items: center;
+  margin-bottom: 0.5rem;
+  margin-left: 2.5rem;
+}
+
+.input label {
+  font-weight: bold;
+  margin-left: 0.5rem;
+}
+
+.input input {
+  width: 2.5rem;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  font: inherit;
+  padding-left: 0.7rem;
+}
